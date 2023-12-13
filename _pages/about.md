@@ -24,8 +24,8 @@ In response to the challenges faced by large language models, such as high compu
 
 | Time               | Title                                                       | Institution                               | Research Direction                                    |
 |:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
-| 2023.11 - present  | Associate Professor | Institute of Information Engineering, CAS | LLMs, Large-scale Statistical Machine Learning  |
-| 2020.09 - 2023.11  | Tenure-track Professor     | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning              |
+| 2023.10 - present  | Associate Professor | Institute of Information Engineering, CAS | LLMs, Large-scale Statistical Machine Learning  |
+| 2020.09 - 2023.10  | Tenure-track Professor     | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning              |
 | 2015.09 - 2020.06  | Ph.D. Candidate                                             | Institute of Information Engineering, CAS | Large-scale Model Selection, Semi-supervised Learning |
 | 2011.09 - 2015.06  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
 
@@ -143,9 +143,9 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * Special Research Assistant Project of CAS, 2020.09 - 2022.09, &yen;800,000. <br>
 <i> Large-scale Few-shot Automated Machine Learning</i>.
 
-* Talent Program Class A of Institute of Information Engineering, CAS, Tenure-track Professor, 2023.11 - 2026.09.
+* Talent Program Class A of Institute of Information Engineering, CAS, Tenure-track Professor, 2023.10 - 2026.09.
 
-* Talent Program Class B of Institute of Information Engineering, CAS, Tenure-track Young Professor, 2020.09 - 2023.11.
+* Talent Program Class B of Institute of Information Engineering, CAS, Tenure-track Young Professor, 2020.09 - 2023.10.
 
 
 ## Patents

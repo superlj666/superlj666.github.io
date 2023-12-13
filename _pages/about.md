@@ -20,7 +20,7 @@ In response to the challenges faced by large language models, such as high compu
 
 **Generalization Theories of Large-Scale Machine Learning Methods**: Researching the generalization theory of large-scale machine learning methods and using the results from generalization theory to enhance large-scale algorithms. This includes studying various methods like federated learning, distributed learning, random features, Nyström methods, sketching methods, and more.
 
-## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/cv_lijian_2023_en.pdf))
+## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/IIE_Jian_Li_en.pdf))
 
 | Time               | Title                                                       | Institution                               | Research Direction                                    |
 |:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
@@ -33,10 +33,19 @@ In response to the challenges faced by large language models, such as high compu
 <i>* corresponding author</i>
 ## Preprint
 
+* Optimal Rates for Agnostic Distributed Learning. **2nd round (major revision)**  <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+Submission in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A Journal</b>.
+
 * A Survey on Model Compression for Large Language Models.
 [[pdf]](https://arxiv.org/abs/2308.07633) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
 <i> arXiv:2308.07633</i>. 
+
+* Small Language Models: Powerful Executors, Limited Thinkers. <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
 
 ### Journal Papers
 

@@ -20,12 +20,12 @@ author_profile: true
 **大规模机器学习泛化理论**： 研究大规模机器学习方法的泛化理论，并基于泛化理论的结果改进大规模算法，包括联邦学习、分布式学习、随机特征、Nyström 方法、草图方法等。
 
 
-## 个人履历 ([CV](https://lijian.ac.cn/files/cv/cv_lijian_2023.pdf))
+## 个人履历 ([CV](https://lijian.ac.cn/files/cv/IIE_Jian_Li.pdf))
 
 | 时间                | 岗位职级                            | 工作学习单位           | 专业方向                        |
 |:------------------- | :----------------------------- |:---------------------- |:-------------------------- |
 | 2023.11 - 至今      | 副研究员一级，优才A-预聘研究员      | 中国科学院信息工程研究所 | 大语言模型，统计学习理论|
-| 2020.09 - 2023.11  | 助理研究员，博士后，优才B-青年预聘研究员 | 中国科学院信息工程研究所 | 大规模机器学习，统计学习理论           |
+| 2020.09 - 2023.11  | 博士后，优才B-青年预聘研究员 （全所唯一） | 中国科学院信息工程研究所 | 大规模机器学习，统计学习理论           |
 | 2015.09 - 2020.06  | 硕博连读研究生                   | 中国科学院信息工程研究所 | 大规模模型选择，半监督学习    |
 | 2011.09 - 2015.06  | 本科生                           | 东北大学               | 软件工程（英语国际班）        |
 
@@ -34,10 +34,19 @@ author_profile: true
 
 ### 预印论文
 
+* Optimal Rates for Agnostic Distributed Learning. **二审**  <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+Submission in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A Journal</b>.
+
 * A Survey on Model Compression for Large Language Models.
 [[pdf]](https://arxiv.org/abs/2308.07633) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
 <i> arXiv:2308.07633</i>. 
+
+* Small Language Models: Powerful Executors, Limited Thinkers. <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
 
 ### 期刊论文
 
@@ -45,7 +54,8 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
 [[code]](https://github.com/superlj666/DNystroem) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A</b>.
+<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A</b>. <br>
+中国学者于JMLR发文极少，近年来平均每年发表20篇，累计发表240篇左右.
 
 * Optimal Convergence for Agnostic Kernel Learning With Random Features.
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/10304308)
@@ -68,7 +78,8 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 [[Paper]](https://doi.org/10.1016/j.artint.2022.103803)
 [[Code]](https://github.com/superlj666/CSKN/) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A</b>.
+<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A</b>. <br>
+中国学者于AI发文极少，近年来平均每年发表10篇，累计发表150篇左右.
 
 * Non-IID Federated Learning with Sharper Risk Bound.
 [[pdf]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>
@@ -104,7 +115,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 * Federated learning for non-iid data: From theory to algorithm. 
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_3)
 [[presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
-[[🏆<b>最佳学生论文奖</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)<br>
+[[🏆<b>最佳学生论文奖</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png) (1/92)<br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C.
 
@@ -132,15 +143,15 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * 国家自然科学基金青年基金 (No. 62106257)，2022.01 - 2024.12，30万元。 <br>
 题目：面向大规模结构化预测的自动谱核学习研究。
 
-* 中国博士后科学基金**特别资助项目** (No. 2023T160680)，2023.07 - 2024.03，18万元。 <br>
+* 中国博士后科学基金**特别资助项目**（No. 2023T160680，731人），2023.07 - 2024.03，18万元。 <br>
 题目：面向结构化预测的深度可微高斯过程方法研究。
 
 * 中国科学院特别研究助理资助（中科院人才项目），2020.09 - 2022.09，80万元。 <br>
 题目：面向大规模小样本数据的自动机器学习研究。
 
-* 中国科学院信息工程研究所优才计划-A类（所级人才项目），预聘研究员，2023.11 - 2026.09。
+* 中国科学院信息工程研究所优才计划-A类，预聘研究员，2023.11 - 2026.09。
 
-* 中国科学院信息工程研究所优才计划-B类（所级人才项目），青年预聘研究员，2020.09 - 2023.11。
+* 中国科学院信息工程研究所优才计划-B类，青年预聘研究员（全所唯一），2020.09 - 2023.11。
 
 
 ## 发明专利

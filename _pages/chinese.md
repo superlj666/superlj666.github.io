@@ -34,10 +34,6 @@ author_profile: true
 
 ### 预印论文
 
-* Optimal Rates for Agnostic Distributed Learning. **二审**  <br>
-<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-Submission in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A Journal</b>.
-
 * A Survey on Model Compression for Large Language Models.
 [[pdf]](https://arxiv.org/abs/2308.07633) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
@@ -49,6 +45,11 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
 
 ### 期刊论文
+
+* Optimal Rates for Agnostic Distributed Learning. **已录用**  <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A</b>. <br>
+计算理论领域顶级期刊.
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
@@ -88,7 +89,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 
 ### 会议论文
 
-* High-dimensional analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. <br>
+* High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
 

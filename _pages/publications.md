@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## 2024
 
-* High-dimensional analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. <br>
+* High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
 

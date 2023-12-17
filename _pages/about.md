@@ -33,10 +33,6 @@ In response to the challenges faced by large language models, such as high compu
 <i>* corresponding author</i>
 ## Preprint
 
-* Optimal Rates for Agnostic Distributed Learning. **2nd round (major revision)**  <br>
-<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-Submission in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A Journal</b>.
-
 * A Survey on Model Compression for Large Language Models.
 [[pdf]](https://arxiv.org/abs/2308.07633) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
@@ -48,6 +44,11 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
 
 ### Journal Papers
+
+* Optimal Rates for Agnostic Distributed Learning. **Accepted**  <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A</b>.
+
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
@@ -84,7 +85,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 
 ### Conference Papers
 
-* High-dimensional analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. <br>
+* High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
 

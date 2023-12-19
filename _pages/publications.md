@@ -3,13 +3,32 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
+
+<i>* 通讯作者</i>
+
+### Preprints
+
+* A Survey on Model Compression for Large Language Models.
+[[pdf]](https://arxiv.org/abs/2308.07633) <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
+<i> arXiv:2308.07633</i>. 
+
+* Small Language Models: Powerful Executors, Limited Thinkers. <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
+
 ## 2024
 
-* High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. <br>
+* Optimal Rates for Agnostic Distributed Learning. **Accepted** <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A journal</b>. <br>
+
+* High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. **Accepted** <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
 
-* FedNS: A Fast Sketching Newton-type Algorithm for Federated Learning. <br>
+* FedNS: A Fast Sketching Newton-type Algorithm for Federated Learning. **Accepted** <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
 

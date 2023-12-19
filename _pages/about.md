@@ -32,32 +32,32 @@ In response to the challenges faced by large language models, such as high compu
 ## Representative Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 * Optimal Rates for Agnostic Distributed Learning. **Accepted**  <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A</b>. <br>
+To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A Journal</b>.
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
 [[code]](https://github.com/superlj666/DNystroem) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A</b>. <br>
+<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A Journal</b>.
 
 * Convolutional Spectral Kernel Learning with Generalization Guarantees.
 [[Paper]](https://doi.org/10.1016/j.artint.2022.103803)
 [[Code]](https://github.com/superlj666/CSKN/) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A</b>. <br>
+<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A Journal</b>.
 
 * Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
 [[pdf]](https://openreview.net/forum?id=S3d9SwhRKh)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A</b>.
+<i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A Conference</b>. 
 
 * Federated learning for non-iid data: From theory to algorithm. 
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_3)
 [[presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
 [[🏆<b>最佳学生论文奖</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png) (1/92)<br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C.
+<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C Conference.
 
 * Multi-Class Learning: From Theory to Algorithm. 
 [[pdf]](https://proceedings.neurips.cc/paper/2018/file/1141938ba2c2b13f5505d7c424ebae5f-Paper.pdf)
@@ -66,7 +66,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 [[3-minute video]](https://youtu.be/mE_RpgWuKK8)
 [[code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
-<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A</b>.
+<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A Conference</b>.
 
 ##  Projects
 * National Key R&D Program of China (2022YFB3105302.2), 2022.12 - 2025.11, &yen;1,200,000. <br>
@@ -120,7 +120,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * National Scholarship for Doctoral students, 2018.
 * IIE Presidential Scholarship, 2018.
 * ~~AIDU Talents of Baidu Research (Decline)~~, 2020
-* ~~Joint Ph.D. Program with Stanford University (Abandon due to COVID-19)~~, 2020.02 - 2021.02
+* ~~Joint Ph.D. Program with Stanford University (Discontinued due to COVID-19)~~, 2020.02 - 2021.02
 
 ## Academic Service
 * Mathematics Guest Editor

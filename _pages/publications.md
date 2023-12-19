@@ -4,9 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-<i>* 通讯作者</i>
+<i>* Corresponding author</i>
+
 
 ### Preprints
+* On the Statistical Optimality of Newton-type Federated Learning with Non-IID Data. <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+Submission in <i>Journal of Machine Learning Research</i> (**JMLR**), <b>CCF-A Journal</b>.
+
+* Domain Agnostic Learning: Improved Algorithms and Bounds. <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+Submission in <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (**TPAMI**), <b>CCF-A Journal</b>.
 
 * A Survey on Model Compression for Large Language Models.
 [[pdf]](https://arxiv.org/abs/2308.07633) <br>
@@ -22,15 +30,15 @@ Submission in <i> Transactions of the Association for Computational Linguistics<
 
 * Optimal Rates for Agnostic Distributed Learning. **Accepted** <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A journal</b>. <br>
+To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A Journal</b>. 
 
 * High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. **Accepted** <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
+<i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
 
 * FedNS: A Fast Sketching Newton-type Algorithm for Federated Learning. **Accepted** <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
+<i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
 
 ## 2023
 
@@ -38,33 +46,33 @@ To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
 [[code]](https://github.com/superlj666/DNystroem) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A journal</b>.
+<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A Journal</b>.
 
 * Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
 [[pdf]](https://openreview.net/forum?id=S3d9SwhRKh) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A conference</b>.
+<i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A Conference</b>.
 
 * Towards Sharp Analysis for Distributed Learning with Random Features. [[pdf]](https://www.ijcai.org/proceedings/2023/0436.pdf) <br>
 <u><b>Jian Li</b></u>, Yong Liu. <br>
-<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2023. <b>CCF-A conference</b>.
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2023. <b>CCF-A Conference</b>.
 
 * Optimal Convergence for Agnostic Kernel Learning With Random Features.
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/10304308)
 [[code]](https://github.com/superlj666/Agnostic-RF)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang.  <br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2023. <b>CCF-B journal</b>.
+<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2023. <b>CCF-B Journal</b>.
 
 * Semi-supervised vector-valued learning: Improved bounds and algorithms. 
 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320323000572) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang.  <br>
-<i>Pattern Recognition</i> (**PR**), 2023. <b>CCF-B journal</b>.
+<i>Pattern Recognition</i> (**PR**), 2023. <b>CCF-B Journal</b>.
 
 * Improving Differentiable Architecture Search via Self-distillation.
 [[pdf]](https://doi.org/10.1016/j.neunet.2023.08.062) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
-<i>Neural Networks</i>, 2023. <b>CCF-B journal</b>.
+<i>Neural Networks</i>, 2023. <b>CCF-B Journal</b>.
 
 * Towards Sharper Risk Bounds for Agnostic Multi-Objectives Learning. [[pdf]](https://ieeexplore.ieee.org/document/10191519) <br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
@@ -73,11 +81,6 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * Data Heterogeneity Differential Privacy: From Theory to Algorithm. [[pdf]](https://doi.org/10.1007/978-3-031-35995-8_9) <br>
 Yiling Kang, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>International Conference on Computational Science</i> (ICCS), 2023.
-
-* A Survey on Model Compression for Large Language Models.
-[[pdf]](https://arxiv.org/abs/2308.07633) <br>
-Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
-<i> arXiv:2308.07633</i>.
 
 * Robust Neural Architecture Search.
 [[pdf]](https://arxiv.org/abs/2304.02845) <br>
@@ -90,13 +93,13 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 [[pdf]](https://doi.org/10.1016/j.artint.2022.103803)
 [[code]](https://github.com/superlj666/CSKN/) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A journal</b>.
+<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A Journal</b>.
 
 * Ridgeless Regression with Random Features.
 [[pdf]](https://www.ijcai.org/proceedings/2022/0445.pdf)
 [[code]](https://github.com/superlj666/Ridgeless-Regression-with-Random-Features) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Yingying Zhang. <br>
-<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2022. <b>CCF-A conference</b>.
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2022. <b>CCF-A Conference</b>.
 
 * Non-IID Distributed Learning with Optimal Mixture Weights. 
 [[pdf]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1304.pdf) <br>
@@ -106,7 +109,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 * Non-IID Federated Learning with Sharper Risk Bound.
 [[pdf]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B journal</b>.
+<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B Journal</b>.
 
 * Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth.
 [[pdf]](https://doi.org/10.1145/3511808.3557451) <br>
@@ -134,7 +137,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 [[poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
 [[code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>AAAI Conference on Artificial Intelligence</i> (**AAAI**), 2020. <b>CCF-A conference</b>.
+<i>AAAI Conference on Artificial Intelligence</i> (**AAAI**), 2020. <b>CCF-A Conference</b>.
 
 * Neural Architecture Optimization with Graph VAE.
 [[pdf]](https://arxiv.org/pdf/2006.10310.pdf)
@@ -150,7 +153,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 [[slides]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_slides.pdf)
 [[code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Rong Yin, Weiping Wang.  <br>
-<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2019. <b>CCF-A conference</b>.
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2019. <b>CCF-A Conference</b>.
 
 * Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis. 
 g[[pdf]](https://www.ijcai.org/proceedings/2019/0400.pdf)
@@ -158,7 +161,7 @@ g[[pdf]](https://www.ijcai.org/proceedings/2019/0400.pdf)
 [[slides]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nyström_PCG_slides.pdf)
 [[code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Rong Yin, Weiping Wang. <br>
-<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2019. <b>CCF-A conference</b>.
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2019. <b>CCF-A Conference</b>.
 
 * Efficient Cross-Validation for Semi-Supervised Learning. 
 [[pdf]](https://arxiv.org/pdf/1902.04768) <br>
@@ -173,7 +176,7 @@ Yong Liu, <u><b>Jian Li</b></u>, Guangjun Wu, Lizhong Ding, Weiping Wang. <br>
 [[3-minute video]](https://youtu.be/mE_RpgWuKK8)
 [[code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
-<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A conference</b>.
+<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A Conference</b>.
 
 * Max-Diversity Distributed Learning: Theory and Algorithms. 
 [[pdf]](https://arxiv.org/pdf/1812.07738.pdf)
@@ -188,4 +191,4 @@ Yong Liu, <u><b>Jian Li</b></u>, Weiping Wang. <br>
 [[sildes]](https://lijian.ac.cn/files/2017_IJCAI_KS/IJCAI_presentation.pptx)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <br>
-<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2017. <b>CCF-A conference</b>.
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2017. <b>CCF-A Conference</b>.

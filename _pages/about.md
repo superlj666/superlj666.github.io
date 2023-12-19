@@ -12,13 +12,13 @@ I am an Associate Professor and Master's supervisor at the Institute of Informat
 In July 2020, I obtained my Ph.D. degree from Institute of Information Engineering, CAS, advised by Associate Prof. [Yong Liu](https://liuyonggsai.github.io/) and Prof. Weiping Wang. 
 
 
-In response to the challenges faced by large language models, such as high computational resource demands and weak foundational theories, my research is dedicated to exploring the underlying principles of large language models. The goal is to design efficient and interpretable lightweight language models, thereby narrowing the gap between foundational theory and practical algorithms. Specific research interests include, but are not limited to:
+My research focuses on foundational machine learning theory, particularly the generalization theory of large-scale methods. Addressing the lag in foundational theory compared to empirical algorithms in large-scale machine learning, I aim to uncover the underlying principles and narrow the gap between theory and practical algorithms. Ultimately, I strive to guide large-scale algorithm design for a balance between computational efficiency and generalization performance. Specific interests include:
 
-**Lightweight Language Models**: Investigating the underlying principles of scaling guidelines for large language models to guide the design of the next generation of efficient and deployable lightweight language models. This involves technologies such as model architecture design, model compression, and high-quality instruction fine-tuning.
+**Optimal Generalization Guarantees for Large-Scale ML**: Investigating optimal generalization guarantees, relaxing assumptions, and enhancing large-scale algorithms, including federated learning, distributed learning, and random features.
 
-**LLMs and Deep Learning Theories**: Delving into the unique phenomena of large language models, such as scaling guidelines, contextual learning abilities, complex reasoning capabilities, and the underlying principles of benign overfitting and the double descent phenomenon in deep learning.
+**Generalization Theory of Deep Neural Networks**: Exploring connections between neural networks and kernel methods, studying generalization in non-stationary spectral kernel networks, refining current neural network models, and using random matrix theory to understand phenomena in deep networks.
 
-**Generalization Theories of Large-Scale Machine Learning Methods**: Researching the generalization theory of large-scale machine learning methods and using the results from generalization theory to enhance large-scale algorithms. This includes studying various methods like federated learning, distributed learning, random features, Nyström methods, sketching methods, and more.
+(Future Direction) **Fundamental Research on Large Language Models**: Delving into the foundational theory of large language models, explaining unique capabilities like scaling laws, context learning, and complex reasoning. Improving model architecture for computational efficiency and performance and researching the next generation of efficient language models with reduced parameters.
 
 ## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/JianLi_CV.pdf))
 
@@ -30,9 +30,9 @@ In response to the challenges faced by large language models, such as high compu
 | 2011.09 - 2015.06  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
 
 ## Representative Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
-* Optimal Rates for Agnostic Distributed Learning. **Accepted**  <br>
+* Optimal Rates for Agnostic Distributed Learning. [[pdf]](https://ieeexplore.ieee.org/document/10365227)<br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A Journal</b>.
+<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal</b>. <br>
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
@@ -110,7 +110,9 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 
 ## Honors and Awards
 * PRICAI 2021 best student paper award, 2021.
-* Outstanding Graduate of Institute of Information Engineering, CAS, 2021.
+* Special Research Assistant of Chinese Academy of Sciences, 2020.
+* ~~AIDU Talents of Baidu Research (Decline)~~, 2020
+* ~~Joint Ph.D. Program with Stanford University (Discontinued due to COVID-19)~~, 2020.02 - 2021.02
 * Outstanding Graduates of Beijing, 2020.
 * Outstanding Graduates of University of Chinese Academy of Sciences (UCAS), 2020.
 * Outstanding Graduates of Institute of Information Engineering, CAS, 2020.
@@ -118,9 +120,6 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * ZhuLiYueHua Scholarship for Excellent Doctoral Student, 2019.
 * CAS Presidential Scholarship, 2019.
 * National Scholarship for Doctoral students, 2018.
-* IIE Presidential Scholarship, 2018.
-* ~~AIDU Talents of Baidu Research (Decline)~~, 2020
-* ~~Joint Ph.D. Program with Stanford University (Discontinued due to COVID-19)~~, 2020.02 - 2021.02
 
 ## Academic Service
 * Mathematics Guest Editor

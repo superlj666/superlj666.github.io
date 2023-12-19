@@ -28,10 +28,6 @@ Submission in <i> Transactions of the Association for Computational Linguistics<
 
 ## 2024
 
-* Optimal Rates for Agnostic Distributed Learning. **Accepted** <br>
-<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A Journal</b>. 
-
 * High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. **Accepted** <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
@@ -41,6 +37,10 @@ To appear in <i>IEEE Transactions On Information Theory</i> (**TIT**). <b>CCF-A 
 <i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
 
 ## 2023
+
+* Optimal Rates for Agnostic Distributed Learning. [[pdf]](https://ieeexplore.ieee.org/document/10365227)<br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal</b>. 
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)

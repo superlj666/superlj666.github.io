@@ -14,11 +14,11 @@ In July 2020, I obtained my Ph.D. degree from Institute of Information Engineeri
 
 My research focuses on foundational machine learning theory, particularly the generalization theory of large-scale methods. Addressing the lag in foundational theory compared to empirical algorithms in large-scale machine learning, I aim to uncover the underlying principles and narrow the gap between theory and practical algorithms. Ultimately, I strive to guide large-scale algorithm design for a balance between computational efficiency and generalization performance. Specific interests include:
 
-**Optimal Generalization Guarantees for Large-Scale ML**: Investigating optimal generalization guarantees, relaxing assumptions, and enhancing large-scale algorithms, including federated learning, distributed learning, and random features.
+- **Optimal Generalization Guarantees for Large-Scale ML**: Investigating optimal generalization guarantees, relaxing assumptions, and enhancing large-scale algorithms, including federated learning, distributed learning, and random features.
 
-**Generalization Theory of Deep Neural Networks**: Exploring connections between neural networks and kernel methods, studying generalization in non-stationary spectral kernel networks, refining current neural network models, and using random matrix theory to understand phenomena in deep networks.
+- **Generalization Theory of Deep Neural Networks**: Exploring connections between neural networks and kernel methods, studying generalization in non-stationary spectral kernel networks, refining current neural network models, and using random matrix theory to understand phenomena in deep networks.
 
-(Future Direction) **Fundamental Research on Large Language Models**: Delving into the foundational theory of large language models, explaining unique capabilities like scaling laws, context learning, and complex reasoning. Improving model architecture for computational efficiency and performance and researching the next generation of efficient language models with reduced parameters.
+- (Future Direction) **Fundamental Research on Large Language Models**: Delving into the foundational theory of large language models, explaining unique capabilities like scaling laws, context learning, and complex reasoning. Improving model architecture for computational efficiency and performance and researching the next generation of efficient language models with reduced parameters.
 
 ## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/JianLi_CV.pdf))
 

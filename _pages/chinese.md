@@ -31,7 +31,10 @@ author_profile: true
 
 ## 代表性工作 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 
-* Optimal Rates for Agnostic Distributed Learning. [[pdf]](https://ieeexplore.ieee.org/document/10365227)<br>
+* Optimal Rates for Agnostic Distributed Learning. 
+[[pdf]](https://ieeexplore.ieee.org/document/10365227)
+[[code]](https://github.com/superlj666/Agnostic-DKRR)
+<br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A 期刊</b>. <br>
 计算理论领域顶级期刊.
@@ -44,8 +47,8 @@ author_profile: true
 中国学者于JMLR发文极少，近年来平均每年发表20篇，累计发表240篇左右.
 
 * Convolutional Spectral Kernel Learning with Generalization Guarantees.
-[[Paper]](https://doi.org/10.1016/j.artint.2022.103803)
-[[Code]](https://github.com/superlj666/CSKN/) <br>
+[[pdf]](https://doi.org/10.1016/j.artint.2022.103803)
+[[code]](https://github.com/superlj666/CSKN/) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A 期刊</b>. <br>
 中国学者于AI发文极少，近年来平均每年发表10篇，累计发表150篇左右.

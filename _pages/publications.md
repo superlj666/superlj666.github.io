@@ -28,19 +28,26 @@ Submission in <i> Transactions of the Association for Computational Linguistics<
 
 ## 2024
 
-* High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. **Accepted** <br>
+* High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. **Accepted** 
+[[code]](https://github.com/superlj666/NonlinearHDA)
+<br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
 
-* FedNS: A Fast Sketching Newton-type Algorithm for Federated Learning. **Accepted** <br>
+* FedNS: A Fast Sketching Newton-type Algorithm for Federated Learning. **Accepted** 
+[[code]](https://github.com/superlj666/FedNS)
+<br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
 
 ## 2023
 
-* Optimal Rates for Agnostic Distributed Learning. [[pdf]](https://ieeexplore.ieee.org/document/10365227)<br>
+* Optimal Rates for Agnostic Distributed Learning. 
+[[pdf]](https://ieeexplore.ieee.org/document/10365227)
+[[code]](https://github.com/superlj666/Agnostic-DKRR)
+<br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal</b>. 
+<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal</b>. <br>
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)

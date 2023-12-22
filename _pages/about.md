@@ -30,7 +30,10 @@ My research focuses on foundational machine learning theory, particularly the ge
 | 2011.09 - 2015.06  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
 
 ## Representative Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
-* Optimal Rates for Agnostic Distributed Learning. [[pdf]](https://ieeexplore.ieee.org/document/10365227)<br>
+* Optimal Rates for Agnostic Distributed Learning. 
+[[pdf]](https://ieeexplore.ieee.org/document/10365227)
+[[code]](https://github.com/superlj666/Agnostic-DKRR)
+<br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal</b>. <br>
 
@@ -41,8 +44,8 @@ My research focuses on foundational machine learning theory, particularly the ge
 <i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A Journal</b>.
 
 * Convolutional Spectral Kernel Learning with Generalization Guarantees.
-[[Paper]](https://doi.org/10.1016/j.artint.2022.103803)
-[[Code]](https://github.com/superlj666/CSKN/) <br>
+[[pdf]](https://doi.org/10.1016/j.artint.2022.103803)
+[[code]](https://github.com/superlj666/CSKN/) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A Journal</b>.
 
@@ -52,12 +55,6 @@ My research focuses on foundational machine learning theory, particularly the ge
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A Conference</b>. 
 
-* Federated learning for non-iid data: From theory to algorithm. 
-[[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_3)
-[[presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
-[[🏆<b>最佳学生论文奖</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png) (1/92)<br>
-Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C Conference.
 
 * Multi-Class Learning: From Theory to Algorithm. 
 [[pdf]](https://proceedings.neurips.cc/paper/2018/file/1141938ba2c2b13f5505d7c424ebae5f-Paper.pdf)
@@ -67,6 +64,13 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 [[code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
 <i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A Conference</b>.
+
+* Federated learning for non-iid data: From theory to algorithm. 
+[[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_3)
+[[presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
+[[🏆<b>最佳学生论文奖</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png) (1/92)<br>
+Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
+<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C Conference.
 
 ##  Projects
 * National Key R&D Program of China (2022YFB3105302.2), 2022.12 - 2025.11, &yen;1,200,000. <br>

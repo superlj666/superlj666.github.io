@@ -29,7 +29,7 @@ My research focuses on foundational machine learning theory, particularly the ge
 | 2015.09 - 2020.06  | Ph.D. Candidate                                             | Institute of Information Engineering, CAS | Large-scale Model Selection, Semi-supervised Learning |
 | 2011.09 - 2015.06  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
 
-## Representative Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
+## Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 * Optimal Rates for Agnostic Distributed Learning. 
 [[pdf]](https://ieeexplore.ieee.org/document/10365227)
 [[code]](https://github.com/superlj666/Agnostic-DKRR)

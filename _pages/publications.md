@@ -28,13 +28,17 @@ Submission in <i> Transactions of the Association for Computational Linguistics<
 
 ## 2024
 
-* High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. **Accepted** 
+* High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. 
+[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29253)
+[[poster]](https://lijian.ac.cn/files/2024/HDA_poster.pdf)
 [[code]](https://github.com/superlj666/NonlinearHDA)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
 
-* FedNS: A Fast Sketching Newton-type Algorithm for Federated Learning. **Accepted** 
+* FedNS: A Fast Sketching Newton-type Algorithm for Federated Learning. 
+[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29254)
+[[poster]](https://lijian.ac.cn/files/2024/FedNS_poster.pdf)
 [[code]](https://github.com/superlj666/FedNS)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>

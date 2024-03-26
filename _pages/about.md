@@ -117,9 +117,9 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * Talent Plan Class A of IIE, CAS, 2023.
 * PRICAI 2021 best student paper award, 2021.
 * Special Research Assistant of Chinese Academy of Sciences, 2020.
+* Talent Plan Class B of IIE, CAS, 2020.
 * ~~AIDU Talents of Baidu Research (Decline)~~, 2020
 * ~~Joint Ph.D. Program with Stanford University (Discontinued due to COVID-19)~~, 2020.02 - 2021.02.
-* Talent Plan Class B of IIE, CAS, 2020.
 * Outstanding Graduates of Beijing, 2020.
 * Outstanding Graduates of University of Chinese Academy of Sciences (UCAS), 2020.
 * Outstanding Graduates of Institute of Information Engineering, CAS, 2020.

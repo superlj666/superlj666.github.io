@@ -130,7 +130,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 ## 指导学生
 - 博士研究生
   - 康艺霖（2020.09 - 2023.06）🎓，差分隐私.
-  <br>发表论文：Computers & Security、CIKM 2022、ICCS 2023.
+  <br>发表论文：Computers & Security、CIKM、ICCS.
   <br>毕业去向：紫金山实验室.
   - 朱勋宇（2020.09 - 至今），神经网络结构搜索.
   <br>发表论文：ICDM 2021, Neural Networks, TACL.
@@ -138,7 +138,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
   - 车博轩（2022.09 - 至今），高效图神经网络.
 - 硕士研究生
   - 韦博舰（2020.09 - 2022.06）🎓，联邦学习.
-  <br>发表论文：PRICAI 2021 (**最佳学生论文奖**)、ECML-PKDD 2022、TNNLS、IJCNN 2023.
+  <br>发表论文：PRICAI 2021 (**最佳学生论文奖**)、TNNLS、ECML-PKDD、IJCNN.
   <br>毕业去向：中国银行总行管培生.
   - 张旭宁（2022.09 - 至今），联邦学习.
   <br>**2023年武汉大学优秀学士论文奖**.

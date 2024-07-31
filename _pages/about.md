@@ -24,7 +24,7 @@ My research focuses on foundational machine learning theory, particularly the ge
 
 ### Career
 
-|              |                       |         |
+|  Institution  |  Title    |  Time |
 |:------------------- | :----------------------------- |:---------------------- 
 | Institute of Information Engineering, CAS  | Associate Professor          | 2023.10 - present     
 | Microsoft Research Asia (NLC Group) | Visiting Scholar | 2024.04 - 2024.06  
@@ -32,8 +32,8 @@ My research focuses on foundational machine learning theory, particularly the ge
 
 ### Education
 
-|              |                       |         |     
-|:------------------- | :----------------------------- |:---------------------- |
+|   Institution  |  Major  |  Degree  |   Time   |
+|:------------------- | :----------------------------- |:---------------------- |:---------------------- |
 | University of Chinese Academy of Sciences (UCAS)  |  Cyber Security             |  Ph.D.                 | 2015.09 - 2020.06 |
 | Northeastern University        | Software Engineering (International class)      |  Bachelor                        | 2011.09 - 2015.06 |
 

@@ -10,23 +10,35 @@ author_profile: true
 ### Preprints
 * On the Statistical Optimality of Newton-type Federated Learning with Non-IID Data. <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-Submission in <i>Journal of Machine Learning Research</i> (**JMLR**), <b>CCF-A Journal</b>.
+Submission in <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (**TPAMI**), <b>CCF-A Journal</b>.
 
 * Domain Agnostic Learning: Improved Algorithms and Bounds. <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-Submission in <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (**TPAMI**), <b>CCF-A Journal</b>.
-
-* A Survey on Model Compression for Large Language Models.
-[[pdf]](https://arxiv.org/abs/2308.07633) <br>
-Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
-Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
-<i> arXiv:2308.07633</i>. 
+Submission in <i>Journal of Machine Learning Research</i> (**JMLR**), <b>CCF-A Journal</b>.
 
 * Small Language Models: Powerful Executors, Limited Thinkers. <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
 
+* Improving Small Language Models’ Mathematical Reasoning via Mix Thoughts Distillation. 
+[[pdf]](https://arxiv.org/abs/2401.11864) <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+Submission in <i> Neural Networks</i>. <b>CCF-B Journal</b>.
+<i>arXiv:2401.11864.</i>.
+
+* Key-Point-Driven Mathematical Reasoning Distillation of Large Language Model. 
+[[pdf]](https://arxiv.org/abs/2407.10167) <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Can Ma, Weiping Wang.  <br>
+Submission in <i> IEEE Transactions on Neural Networks and Learning Systems</i>  (**TNNLS**). <b>CCF-B Journal</b>. 
+<i>arXiv:2407.10167.</i>.
+
 ## 2024
+
+* A Survey on Model Compression for Large Language Models.
+[[pdf]](https://arxiv.org/abs/2308.07633) <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
+<i> Accepted </i>.  
 
 * High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. 
 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29253)

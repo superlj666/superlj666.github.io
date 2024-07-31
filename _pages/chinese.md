@@ -133,7 +133,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
   <br>发表论文：Computers & Security、CIKM、ICCS.
   <br>毕业去向：紫金山实验室.
   - 朱勋宇（2020.09 - 至今），神经网络结构搜索.
-  <br>发表论文：ICDM 2021, Neural Networks, TACL.
+  <br>发表论文：Neural Networks, TACL, ICDM.
   <br>投稿论文：TACL, Neural Networks, TNNLS.
   - 车博轩（2022.09 - 至今），高效图神经网络.
 - 硕士研究生

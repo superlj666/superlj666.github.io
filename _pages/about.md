@@ -121,12 +121,12 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 
 ## Students
 - Ph.D. students
-  - 🎓Yilin Kang (2020.09 - 2023.06 ), Differential Privacy. </br>Publications: Computers & Security, CIKM 2022, ICCS 2023. </br> Post-graduation: Researcher in Purple Mountain Laboratories.
-  - Xunyu Zhu (2020.09 - present), Efficient LLM Inference. </br>Publications: ICDM 2021, Neural Networks, TACL. </br>In submissions: TACL, Neural Networks, TNNLS.
+  - 🎓Yilin Kang (2020.09 - 2023.06 ), Differential Privacy. <br>Publications: Computers & Security, CIKM 2022, ICCS 2023. <br> Post-graduation: Researcher in Purple Mountain Laboratories.
+  - Xunyu Zhu (2020.09 - present), Efficient LLM Inference. <br>Publications: ICDM 2021, Neural Networks, TACL. <br>In submissions: TACL, Neural Networks, TNNLS.
   - Boxuan Che (2022.09 - present), Efficient Graph Neural Networks.
 - Master students
-  - 🎓Bojian Wei (2020.09 - 2022.06), Federated Learning on Heterogenous Data. </br>Publications: PRICAI 2021 (**best student paper award**), ECML-PKDD 2022, TNNLS, IJCNN 2023. </br>Post-graduation: Management Trainee in Bank of China Head Office.
-  - Xuning Zhang (2022.09 - present), Federated Learning. </br>**Excellent Bachelor's Thesis in Wuhan University in 2023**.
+  - 🎓Bojian Wei (2020.09 - 2022.06), Federated Learning on Heterogenous Data. <br>Publications: PRICAI 2021 (**best student paper award**), ECML-PKDD 2022, TNNLS, IJCNN 2023. <br>Post-graduation: Management Trainee in Bank of China Head Office.
+  - Xuning Zhang (2022.09 - present), Federated Learning. <br>**Excellent Bachelor's Thesis in Wuhan University in 2023**.
 
 ## Honors and Awards
 * Microsoft Research Asia StarTrack Scholars Program, 2024

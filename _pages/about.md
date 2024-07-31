@@ -22,14 +22,29 @@ My research focuses on foundational machine learning theory, particularly the ge
 
 ## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/JianLi_CV.pdf))
 
-| Time               | Title                                                       | Institution                               | Research Direction                                    |
-|:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
-| 2023.10 - present  | Associate Professor | Institute of Information Engineering, CAS | LLMs, Large-scale Statistical Machine Learning  |
-| 2020.09 - 2023.10  | Tenure-track Professor     | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning              |
-| 2015.09 - 2020.06  | Ph.D. Candidate                                             | Institute of Information Engineering, CAS | Large-scale Model Selection, Semi-supervised Learning |
-| 2011.09 - 2015.06  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
+### Career
+
+|              |                       |         |
+|:------------------- | :----------------------------- |:---------------------- 
+| Institute of Information Engineering, CAS  | Associate Professor          | 2023.10 - present     
+| Microsoft Research Asia (NLC Group) | Visiting Scholar | 2024.04 - 2024.06  
+| Institute of Information Engineering, CAS | Tenure-track Assistant Professor | 2020.09 - 2023.10  
+
+### Education
+
+|              |                       |         |     
+|:------------------- | :----------------------------- |:---------------------- |
+| University of Chinese Academy of Sciences (UCAS)  |  Cyber Security             |  Ph.D.                 | 2015.09 - 2020.06 |
+| Northeastern University        | Software Engineering (International class)      |  Bachelor                        | 2011.09 - 2015.06 |
 
 ## Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
+
+* A Survey on Model Compression for Large Language Models. 
+[[pdf]](https://arxiv.org/pdf/2308.07633)
+<br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+<i>Transactions of the Association for Computational Linguistics</i> (**TACL**), 2024, 已录用. <b>CCF-B 期刊</b>. <br>
+
 * Optimal Rates for Agnostic Distributed Learning. 
 [[pdf]](https://ieeexplore.ieee.org/document/10365227)
 [[code]](https://github.com/superlj666/Agnostic-DKRR)
@@ -92,25 +107,26 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 
 ## Patents
 
+
+### Granted
+
+* Hailun Lin, Yong Liu, <u><b>Jian Li</b></u>, Weiping Wang. A Large-Scale Ontology Merging Method that Integrates Representation Learning and Divide-and-Conquer Strategy: China. Granted No.CN110059194A. Granted Date: April 8, 2022.
+  
 ### Pending
 
 * <u><b>Jian Li</b></u>, Yong Liu, Liubin Wang, Yiguo Yang, Juhong Wang.Neural Network Architecture Search Method, Device, Computer Equipment, and Storage Medium. CN：202011567991.3. App. Date: December 25, 2020.
 * <u><b>Jian Li</b></u>, Jiaoyang Li, Bojian Wei, Yong Liu, Weiping Wang. A Federated Learning Method and System Based on Attention Mechanism. CN: 202311073645.3. App. Date: August 24, 2023
 * <u><b>Jian Li</b></u>, Jiaoyang Li, Zheng Lin, Yong Liu, Weiping Wang. A Vertical Domain Large Model Method and System Based on Knowledge Distillation and Prompt Engineering. CN: 202311073641.5. App. Date: August 24, 2023.
 
-### Granted
-
-* Hailun Lin, Yong Liu, <u><b>Jian Li</b></u>, Weiping Wang. A Large-Scale Ontology Merging Method that Integrates Representation Learning and Divide-and-Conquer Strategy: China. Granted No.CN110059194A. Granted Date: April 8, 2022.
-
 
 ## Students
 - Ph.D. students
-  - 🎓Yilin Kang (2020.09 - 2023.06 ), Differential Privacy. Papers: Computers & Security, CIKM 2022, ICCS 2023. Post-graduation: Researcher in Purple Mountain Laboratories.
-  - Xunyu Zhu (2020.09 - present), Neural Architecture Search. Papers: ICDM 2021.
+  - 🎓Yilin Kang (2020.09 - 2023.06 ), Differential Privacy. </br>Publications: Computers & Security, CIKM 2022, ICCS 2023. </br> Post-graduation: Researcher in Purple Mountain Laboratories.
+  - Xunyu Zhu (2020.09 - present), Efficient LLM Inference. </br>Publications: ICDM 2021, Neural Networks, TACL. </br>In submissions: TACL, Neural Networks, TNNLS.
   - Boxuan Che (2022.09 - present), Efficient Graph Neural Networks.
-- Master's students
-  - 🎓Bojian Wei (2020.09 - 2022.06), Federated Learning on Heterogenous Data. Papers: PRICAI 2021 (**best student paper award**), ECML-PKDD 2022, TNNLS, IJCNN 2023. Post-graduation: Management Trainee in Bank of China Head Office.
-  - Xuning Zhang (2022.09 - present), Federated Learning. **Excellent Bachelor's Thesis in Wuhan University in 2023**.
+- Master students
+  - 🎓Bojian Wei (2020.09 - 2022.06), Federated Learning on Heterogenous Data. </br>Publications: PRICAI 2021 (**best student paper award**), ECML-PKDD 2022, TNNLS, IJCNN 2023. </br>Post-graduation: Management Trainee in Bank of China Head Office.
+  - Xuning Zhang (2022.09 - present), Federated Learning. </br>**Excellent Bachelor's Thesis in Wuhan University in 2023**.
 
 ## Honors and Awards
 * Microsoft Research Asia StarTrack Scholars Program, 2024

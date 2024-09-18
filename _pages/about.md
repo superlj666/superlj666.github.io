@@ -25,9 +25,9 @@ My research focuses on foundational machine learning theory, particularly the ge
 
 |  Institution  |  Title    |  Time |
 |:------------------- | :----------------------------- |:---------------------- 
-| Beijing Normal University  | Associate Professor    | 2024.09 - present
-| Institute of Information Engineering, CAS  | Associate Research Fellow     | 2023.10 - 2024.09     
+| Beijing Normal University  | Associate Professor    | 2024.09 - present     
 | Microsoft Research Asia (NLC Group) | Visiting Scholar | 2024.04 - 2024.06  
+| Institute of Information Engineering, CAS  | Associate Research Fellow     | 2023.10 - 2024.09
 | Institute of Information Engineering, CAS | Postdoc Researcher | 2020.09 - 2023.10  
 
 ## Education

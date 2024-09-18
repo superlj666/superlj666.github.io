@@ -20,16 +20,9 @@ Submission in <i>Journal of Machine Learning Research</i> (**JMLR**), <b>CCF-A J
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
 
-* Improving Small Language Models’ Mathematical Reasoning via Mix Thoughts Distillation. 
-[[pdf]](https://arxiv.org/abs/2401.11864) <br>
-Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
-Submission in <i> Neural Networks</i>. <b>CCF-B Journal</b>.
-<i>arXiv:2401.11864.</i>.
-
 * Key-Point-Driven Mathematical Reasoning Distillation of Large Language Model. 
 [[pdf]](https://arxiv.org/abs/2407.10167) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Can Ma, Weiping Wang.  <br>
-Submission in <i> IEEE Transactions on Neural Networks and Learning Systems</i>  (**TNNLS**). <b>CCF-B Journal</b>. 
 <i>arXiv:2407.10167.</i>.
 
 ## 2024
@@ -37,8 +30,25 @@ Submission in <i> IEEE Transactions on Neural Networks and Learning Systems</i> 
 * A Survey on Model Compression for Large Language Models.
 [[pdf]](https://arxiv.org/abs/2308.07633) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
-Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
-<i> Accepted </i>.  
+Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal / JCR Q1</b>.
+<i> Accepted </i>. 
+
+* Towards sharper excess risk bounds for differentially private pairwise learning. 
+[[pdf]](https://doi.org/10.1016/j.neucom.2024.128610) <br>
+Yilin Kang, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
+<i> Neurocomputing</i>. <b>CCF-B Journal / JCR Q1</b>.
+
+* Distilling mathematical reasoning capabilities into Small Language Models. 
+[[pdf]](https://doi.org/10.1016/j.neunet.2024.106594) <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+<i> Neural Networks</i>. <b>CCF-B Journal / JCR Q1</b>.
+
+* Optimal Rates for Agnostic Distributed Learning. 
+[[pdf]](https://ieeexplore.ieee.org/document/10365227)
+[[code]](https://github.com/superlj666/Agnostic-DKRR)
+<br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal / JCR Q1</b>. <br>
 
 * High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. 
 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29253)
@@ -46,7 +56,7 @@ Submission in <i> Transactions of the Association for Computational Linguistics<
 [[code]](https://github.com/superlj666/NonlinearHDA)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
+<i>AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
 
 * FedNS: A Fast Sketching Newton-type Algorithm for Federated Learning. 
 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29254)
@@ -54,22 +64,15 @@ Submission in <i> Transactions of the Association for Computational Linguistics<
 [[code]](https://github.com/superlj666/FedNS)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
+<i>AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
 
 ## 2023
-
-* Optimal Rates for Agnostic Distributed Learning. 
-[[pdf]](https://ieeexplore.ieee.org/document/10365227)
-[[code]](https://github.com/superlj666/Agnostic-DKRR)
-<br>
-<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal</b>. <br>
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
 [[code]](https://github.com/superlj666/DNystroem) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A Journal</b>.
+<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A Journal / JCR Q1</b>.
 
 * Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
 [[pdf]](https://openreview.net/forum?id=S3d9SwhRKh) <br>
@@ -85,17 +88,17 @@ Submission in <i> Transactions of the Association for Computational Linguistics<
 [[code]](https://github.com/superlj666/Agnostic-RF)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang.  <br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2023. <b>CCF-B Journal</b>.
+<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2023. <b>CCF-B Journal / JCR Q1</b>.
 
 * Semi-supervised vector-valued learning: Improved bounds and algorithms. 
 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320323000572) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang.  <br>
-<i>Pattern Recognition</i> (**PR**), 2023. <b>CCF-B Journal</b>.
+<i>Pattern Recognition</i> (**PR**), 2023. <b>CCF-B Journal / JCR Q1</b>.
 
 * Improving Differentiable Architecture Search via Self-distillation.
 [[pdf]](https://doi.org/10.1016/j.neunet.2023.08.062) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
-<i>Neural Networks</i>, 2023. <b>CCF-B Journal</b>.
+<i>Neural Networks</i>, 2023. <b>CCF-B Journal / JCR Q1</b>.
 
 * Towards Sharper Risk Bounds for Agnostic Multi-Objectives Learning. [[pdf]](https://ieeexplore.ieee.org/document/10191519) <br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
@@ -116,7 +119,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 [[pdf]](https://doi.org/10.1016/j.artint.2022.103803)
 [[code]](https://github.com/superlj666/CSKN/) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A Journal</b>.
+<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A Journal / JCR Q1</b>.
 
 * Ridgeless Regression with Random Features.
 [[pdf]](https://www.ijcai.org/proceedings/2022/0445.pdf)
@@ -132,7 +135,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 * Non-IID Federated Learning with Sharper Risk Bound.
 [[pdf]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B Journal</b>.
+<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B Journal / JCR Q1</b>.
 
 * Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth.
 [[pdf]](https://doi.org/10.1145/3511808.3557451) <br>

@@ -4,14 +4,15 @@ permalink: /chinese/
 author_profile: true
 ---
 
-**副研究员一级、硕士生导师，中国科学院信息工程研究所** 
+**副教授、硕士生导师，北京师范大学人工智学院** 
 
-**地址：北京市海淀区树村路19号，100085** 
+**地址：北京市新街口外大街19号，100875** 
 
-**邮箱：me [at] lijian.ac.cn**
+**邮箱：jli [at] bnu.edu.cn**
 
 ## 研究方向
-研究方向为机器学习基础理论研究，现有工作聚焦于大规模机器学习方法的泛化理论研究。针对大规模机器学习领域基础理论滞后于经验性算法的问题，我的研究旨在探索大规模机器学习方法的底层原理，揭示方法近似能力来源，缩小基础理论与实际算法的差距。最终，基于泛化理论指导大规模算法设计，实现计算效率与泛化性能的平衡。具体的研究兴趣包括但不限于：
+以大语言模型为代表的人工智能方法，在算法与应用层面得到了长足发展，但其“黑盒”特性导致模型缺乏理论可解释性，同时现有模型参数规模巨大，面临计算性能瓶颈。通过研究机器学习基础理论，探索模型底层工作原理，在模型性能与计算效率之间取得良好权衡，进而指导设计具有更优泛化能力、更加高效的机器学习算法。具体的研究兴趣包括但不限于：
+<!--研究方向为机器学习基础理论研究，现有工作聚焦于大规模机器学习方法的泛化理论研究。针对大规模机器学习领域基础理论滞后于经验性算法的问题，我的研究旨在探索大规模机器学习方法的底层原理，揭示方法近似能力来源，缩小基础理论与实际算法的差距。最终，基于泛化理论指导大规模算法设计，实现计算效率与泛化性能的平衡。-->
 
 - **大语言模型的基础研究**: 探索大语言模型的基础理论，解释大模型的独特能力，如缩放准则、上下文学习和复杂推理等；结合大规模机器学习技术，改进大模型基础架构，提高计算效率和性能；研究下一代高效轻量化语言模型，降低参数量，保留或提升特定任务上的能力。
 
@@ -22,17 +23,18 @@ author_profile: true
 
 
 
-## 个人履历 ([CV](https://lijian.ac.cn/files/cv/JianLi_CV_cn.pdf))
+<!--## 个人履历 ([CV](https://lijian.ac.cn/files/cv/JianLi_CV_cn.pdf))-->
 
-### 工作经历
+## 工作经历
 
 |  机构 | 职级   | 时间  |
 |:------------------- | :----------------------------- |:---------------------- 
-| 中国科学院信息工程研究所  | 副研究员一级，优才A          | 2023.10 - 至今     
+| 北京师范大学人工智能学院  | 副教授          | 2024.09 - 至今  
+| 中国科学院信息工程研究所  | 副研究员一级，优才A          | 2023.10 - 2024.09     
 | 微软亚洲研究院（自然语言计算组） | 访问学者 | 2024.04 - 2024.06  
 | 中国科学院信息工程研究所 | 博士后，优才B-青年预聘研究员 （全所唯一）| 2020.09 - 2023.10  
 
-### 教育背景
+## 教育背景
 
 |  机构   | 专业  |  学位  | 时间 |
 |:------------------- | :----------------------------- |:---------------------- |:---------------------- |
@@ -45,36 +47,38 @@ author_profile: true
 [[pdf]](https://arxiv.org/pdf/2308.07633)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Transactions of the Association for Computational Linguistics</i> (**TACL**), 2024, 已录用. <b>CCF-B 期刊</b>. <br>
+<i>Transactions of the Association for Computational Linguistics</i> (**TACL**), 2024, 已录用. <b>CCF-B 期刊 / JCR Q1</b>. <br>
 大模型领域首篇模型压缩综述.
+
+* Distilling mathematical reasoning capabilities into Small Language Models. 
+[[pdf]](https://doi.org/10.1016/j.neunet.2024.106594) <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+<i> Neural Networks</i>, 2024. <b>CCF-B 期刊 / JCR Q1</b>.
 
 * Optimal Rates for Agnostic Distributed Learning. 
 [[pdf]](https://ieeexplore.ieee.org/document/10365227)
 [[code]](https://github.com/superlj666/Agnostic-DKRR)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A 期刊</b>. <br>
-计算理论领域顶级期刊.
+<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A 期刊，信息论理论顶级期刊.</b>. <br>
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
 [[code]](https://github.com/superlj666/DNystroem) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A 期刊</b>. <br>
-中国学者于JMLR发文较少，近年来平均每年发表20篇，累计发表240篇左右.
+<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A 期刊，机器学习领域顶级期刊</b>. <br>
 
 * Convolutional Spectral Kernel Learning with Generalization Guarantees.
 [[pdf]](https://doi.org/10.1016/j.artint.2022.103803)
 [[code]](https://github.com/superlj666/CSKN/) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A 期刊</b>. <br>
-中国学者于AI发文较少，近年来平均每年发表10篇，累计发表150篇左右.
+<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A 期刊，人工智能领域顶级期刊</b>. <br>
 
 * Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
 [[pdf]](https://openreview.net/forum?id=S3d9SwhRKh)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A 会议</b>.
+<i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A 会议，机器学习领域顶级会议</b>.
 
 * Federated learning for non-iid data: From theory to algorithm. 
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_3)
@@ -90,7 +94,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 [[3-minute video]](https://youtu.be/mE_RpgWuKK8)
 [[code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
-<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A 会议</b>.
+<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A 会议，机器学习领域顶级会议</b>.
 
 
 ## 主持项目
@@ -133,8 +137,8 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
   <br>发表论文：Computers & Security、CIKM、ICCS.
   <br>毕业去向：紫金山实验室.
   - 朱勋宇（2020.09 - 至今），神经网络结构搜索.
-  <br>发表论文：Neural Networks, TACL, ICDM.
-  <br>投稿论文：TACL, Neural Networks, TNNLS.
+  <br>发表论文：Neural Networks $\times$ 2, TACL, ICDM.
+  <br>投稿论文：TACL.
   - 车博轩（2022.09 - 至今），高效图神经网络.
 - 硕士研究生
   - 韦博舰（2020.09 - 2022.06）🎓，联邦学习.
@@ -142,6 +146,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
   <br>毕业去向：中国银行总行管培生.
   - 张旭宁（2022.09 - 至今），联邦学习.
   <br>**2023年武汉大学优秀学士论文奖**.
+  <br>投稿论文：AAAI 2025.
 
 ## 荣誉称号
 * 2024年，微软亚洲研究院“铸星计划”.
@@ -149,8 +154,8 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * 2021年，PRICAI 2021 最佳学生论文奖.
 * 2020年，中国科学院特别研究助理.
 * 2020年，中科院信工所优才计划 B 类-青年预聘正高.
-* ~~2020年，百度研究院AIDU人才计划~~（未入职）
-* ~~2020年2月至2021年2月，斯坦福大学联合培养博士~~（因新冠疫情中止）
+* 2020年，百度研究院AIDU人才计划.
+* ~~2020年2月至2021年2月，斯坦福大学联合培养博士~~（因新冠疫情中止）.
 * 2020年，北京市优秀毕业生.
 * 2020年，中国科学院大学优秀毕业生.
 * 2019年，博士研究生国家奖学金.

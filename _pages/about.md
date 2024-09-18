@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor and Master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (CAS), working on large-scale statistical learning theory and large language models (LLMs).
-In July 2020, I obtained my Ph.D. degree from Institute of Information Engineering, CAS, advised by Associate Prof. [Yong Liu](https://liuyonggsai.github.io/) and Prof. Weiping Wang. 
+I recently joined the School of Artificial Intelligence at Beijing Normal University (BNU) as an Associate Professor. Prior to this, I worked at the Institute of Information Engineering, Chinese Academy of Sciences, from September 2020 to September 2024. In July 2020, I earned my Ph.D. from the same institute, where I was advised by Associate Professor [Yong Liu](https://liuyonggsai.github.io/) and Professor Weiping Wang. 
 
 
 My research focuses on foundational machine learning theory, particularly the generalization theory of large-scale methods. Addressing the lag in foundational theory compared to empirical algorithms in large-scale machine learning, I aim to uncover the underlying principles and narrow the gap between theory and practical algorithms. Ultimately, I strive to guide large-scale algorithm design for a balance between computational efficiency and generalization performance. Specific interests include:
@@ -20,17 +19,18 @@ My research focuses on foundational machine learning theory, particularly the ge
 
 - **Optimal Generalization Guarantees for Large-Scale ML**: Investigating optimal generalization guarantees, relaxing assumptions, and enhancing large-scale algorithms, including federated learning, distributed learning, and random features.
 
-## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/JianLi_CV.pdf))
+<!--Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/JianLi_CV.pdf))-->
 
-### Career
+## Career
 
 |  Institution  |  Title    |  Time |
 |:------------------- | :----------------------------- |:---------------------- 
-| Institute of Information Engineering, CAS  | Associate Professor          | 2023.10 - present     
+| Beijing Normal University  | Associate Professor    | 2024.09 - present
+| Institute of Information Engineering, CAS  | Associate Research Fellow     | 2023.10 - 2024.09     
 | Microsoft Research Asia (NLC Group) | Visiting Scholar | 2024.04 - 2024.06  
-| Institute of Information Engineering, CAS | Tenure-track Assistant Professor | 2020.09 - 2023.10  
+| Institute of Information Engineering, CAS | Postdoc Researcher | 2020.09 - 2023.10  
 
-### Education
+## Education
 
 |   Institution  |  Major  |  Degree  |   Time   |
 |:------------------- | :----------------------------- |:---------------------- |:---------------------- |
@@ -43,7 +43,12 @@ My research focuses on foundational machine learning theory, particularly the ge
 [[pdf]](https://arxiv.org/pdf/2308.07633)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Transactions of the Association for Computational Linguistics</i> (**TACL**), 2024, 已录用. <b>CCF-B 期刊</b>. <br>
+<i>Transactions of the Association for Computational Linguistics</i> (**TACL**), 2024, Aceepted. <b>CCF-B Journal / JCR Q1</b>. <br>
+
+* Distilling mathematical reasoning capabilities into Small Language Models. 
+[[pdf]](https://doi.org/10.1016/j.neunet.2024.106594) <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+<i> Neural Networks</i>, 2024. <b>CCF-B Journal / JCR Q1</b>.
 
 * Optimal Rates for Agnostic Distributed Learning. 
 [[pdf]](https://ieeexplore.ieee.org/document/10365227)
@@ -83,7 +88,7 @@ My research focuses on foundational machine learning theory, particularly the ge
 * Federated learning for non-iid data: From theory to algorithm. 
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_3)
 [[presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
-[[🏆<b>最佳学生论文奖</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png) (1/92)<br>
+[[🏆<b>Best Student Paper Reward</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png) (1/92)<br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C Conference.
 
@@ -125,8 +130,8 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
   <br>Publications: Computers & Security, CIKM, ICCS. 
   <br> Post-graduation: Researcher in Purple Mountain Laboratories.
   - Xunyu Zhu (2020.09 - present), Efficient LLM Inference. 
-  <br>Publications: Neural Networks, TACL, ICDM. 
-  <br>In submissions: TACL, Neural Networks, TNNLS.
+  <br>Publications: Neural Networks $\times$ 2, TACL, ICDM. 
+  <br>In submissions: TACL.
   - Boxuan Che (2022.09 - present), Efficient Graph Neural Networks.
 - Master students
   - 🎓Bojian Wei (2020.09 - 2022.06), Federated Learning on Heterogenous Data. 
@@ -134,6 +139,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
   <br>Post-graduation: Management Trainee in Bank of China Head Office.
   - Xuning Zhang (2022.09 - present), Federated Learning.
   <br>**Excellent Bachelor's Thesis in Wuhan University in 2023**.
+  <br>In submissions: AAAI 2025.
 
 ## Honors and Awards
 * Microsoft Research Asia StarTrack Scholars Program, 2024
@@ -141,7 +147,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * PRICAI 2021 best student paper award, 2021.
 * Special Research Assistant of Chinese Academy of Sciences, 2020.
 * Talent Plan Class B of IIE, CAS, 2020.
-* ~~AIDU Talents of Baidu Research (Decline)~~, 2020
+* AIDU Talents of Baidu Research, 2020.
 * ~~Joint Ph.D. Program with Stanford University (Discontinued due to COVID-19)~~, 2020.02 - 2021.02.
 * Outstanding Graduates of Beijing, 2020.
 * Outstanding Graduates of University of Chinese Academy of Sciences (UCAS), 2020.

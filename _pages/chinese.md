@@ -46,7 +46,7 @@ author_profile: true
 * A Survey on Model Compression for Large Language Models. 
 [[pdf]](https://arxiv.org/pdf/2308.07633)
 <br>
-<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang. <br>
 <i>Transactions of the Association for Computational Linguistics</i> (**TACL**), 2024, 已录用. <b>CCF-B 期刊 / JCR Q1</b>. <br>
 大模型领域首篇模型压缩综述.
 

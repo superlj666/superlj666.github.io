@@ -99,6 +99,9 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C Conference.
 
 ##  Projects
+* National Natural Science Foundation of China (No. 62106257), 2026.01 - 2029.12, &yen;500,000. <br>
+<i> Information Compression of Large Language Models: Mathematical Mechanism Analysis and Algorithm Design</i>.
+
 * National Key R&D Program of China (2022YFB3105302.2), 2022.12 - 2025.11, &yen;1,200,000. <br>
 <i> Aggregation and Collaborative Techniques for Cross-platforms Heterogenous Data</i>.
 

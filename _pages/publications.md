@@ -6,32 +6,31 @@ author_profile: true
 
 <i>* Corresponding author</i>
 
+## 2025
 
-### Preprints
-* On the Statistical Optimality of Newton-type Federated Learning with Non-IID Data. <br>
-<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-Submission in <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (**TPAMI**), <b>CCF-A Journal</b>.
+* FedNK-RF: Federated Kernel Learning with Heterogeneous Data and Optimal Rates.
+Xuning Zhang, <u><b>Jian Li*</b></u>, Rong Yin, Weiping Wang.  <br>
+<i> IEEE Transactions on Neural Networks and Learning Systems</i>  (**TNNLS**). <b>CCF-B Journal / JCR Q1</b>. Accepted
 
-* Domain Agnostic Learning: Improved Algorithms and Bounds. <br>
-<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-Submission in <i>Journal of Machine Learning Research</i> (**JMLR**), <b>CCF-A Journal</b>.
-
-* Small Language Models: Powerful Executors, Limited Thinkers. <br>
-Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
-Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal</b>.
-
-* Key-Point-Driven Mathematical Reasoning Distillation of Large Language Model. 
-[[pdf]](https://arxiv.org/abs/2407.10167) <br>
+* Improving Mathematical Reasoning Capabilities of Small Language Models via Feedback-Driven Distillation.
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Can Ma, Weiping Wang.  <br>
-<i>arXiv:2407.10167.</i>.
+<i> 2025 International Joint Conference on Neural Networks</i>  (**IJCNN**). <b>CCF-C Conference</b>.
+
+* Improving Mathematical Reasoning Abilities of Small Language Models via Key-Point-Driven Distillation.
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Can Ma, Weiping Wang.  <br>
+<i> 2025 International Joint Conference on Neural Networks</i>  (**IJCNN**). <b>CCF-C Conference</b>.
+
+* Understanding Generalization in Transformers: Error Bounds and Training Dynamics Under Benign and Harmful Overfitting.
+[[pdf]](https://arxiv.org/pdf/2502.12508) <br>
+Yingying Zhang, Zhenyu Wu, <u><b>Jian Li*</b></u>. <br>
+
 
 ## 2024
 
 * A Survey on Model Compression for Large Language Models.
 [[pdf]](https://arxiv.org/abs/2308.07633) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
-Submission in <i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal / JCR Q1</b>.
-<i> Accepted </i>. 
+<i> Transactions of the Association for Computational Linguistics</i>  (**TACL**). <b>CCF-B Journal / JCR Q1</b>.
 
 * Towards sharper excess risk bounds for differentially private pairwise learning. 
 [[pdf]](https://doi.org/10.1016/j.neucom.2024.128610) <br>

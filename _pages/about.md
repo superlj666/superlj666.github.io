@@ -8,16 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I recently joined the School of Artificial Intelligence at Beijing Normal University (BNU) as an Associate Professor. Prior to this, I worked at the Institute of Information Engineering, Chinese Academy of Sciences, from September 2020 to September 2024. In July 2020, I earned my Ph.D. from the same institute, where I was advised by Associate Professor [Yong Liu](https://liuyonggsai.github.io/) and Professor Weiping Wang. 
+I joined the School of Artificial Intelligence at Beijing Normal University (BNU) as an Associate Professor in September 2024. Prior to this, I was a young senior researcher at the Institute of Information Engineering, Chinese Academy of Sciences, from September 2020 to September 2024. I received my Ph.D. from the same institute in July 2020, under the supervision of Professor [Yong Liu](https://liuyonggsai.github.io/) and Professor Weiping Wang.
 
 
-My research focuses on foundational machine learning theory, particularly the generalization theory of large-scale methods. Addressing the lag in foundational theory compared to empirical algorithms in large-scale machine learning, I aim to uncover the underlying principles and narrow the gap between theory and practical algorithms. Ultimately, I strive to guide large-scale algorithm design for a balance between computational efficiency and generalization performance. Specific interests include:
+Artificial intelligence methods represented by large language models (LLMs) have achieved significant progress at both algorithmic and application levels. However, their intrinsically data-driven statistical nature leads to insufficient reasoning reliability (high hallucination rates), making it challenging to meet the stringent reliability requirements of high-risk decision-making and educational scenarios. My research focuses on the reasoning capabilities and reliability of large language models, aiming to enhance complex reasoning ability and reasoning reliability through fundamental theoretical exploration and key technical investigations, thereby realizing interpretable, trustworthy, and practically deployable LLM reasoning systems. Specific research interests include, but are not limited to:
 
+* **Complex reasoning capabilities of LLMs**: Investigating information compression mechanisms, reinforcement learning-driven reasoning optimization, long-context reasoning (Long CoT), and RAG-based tool invocation to enhance reasoning depth and flexibility in complex tasks.
+
+* **Reasoning reliability of LLMs**: Studying knowledge-driven reasoning, formal reasoning, and neuro-symbolic integration methods to reduce hallucination rates and improve interpretability and trustworthiness of model reasoning.
+
+* **Educational applications of LLMs**: Exploring functionalities such as intelligent question generation, intelligent literature retrieval and recommendation, and lesson plan generation to enable practical deployment of reasoning capabilities and formation of deliverable results in educational settings.
+
+
+<!--My research focuses on foundational machine learning theory, particularly the generalization theory of large-scale methods. Addressing the lag in foundational theory compared to empirical algorithms in large-scale machine learning, I aim to uncover the underlying principles and narrow the gap between theory and practical algorithms. Ultimately, I strive to guide large-scale algorithm design for a balance between computational efficiency and generalization performance. Specific interests include:
 - **Fundamental Research on Large Language Models**: Delving into the foundational theory of large language models, explaining unique capabilities like scaling laws, context learning, and complex reasoning. Improving model architecture for computational efficiency and performance and researching the next generation of efficient language models with reduced parameters.
-
 - **Generalization Theory of Deep Neural Networks**: Exploring connections between neural networks and kernel methods, studying generalization in non-stationary spectral kernel networks, refining current neural network models, and using random matrix theory to understand phenomena in deep networks.
-
-- **Optimal Generalization Guarantees for Large-Scale ML**: Investigating optimal generalization guarantees, relaxing assumptions, and enhancing large-scale algorithms, including federated learning, distributed learning, and random features.
+- **Optimal Generalization Guarantees for Large-Scale ML**: Investigating optimal generalization guarantees, relaxing assumptions, and enhancing large-scale algorithms, including federated learning, distributed learning, and random features.-->
 
 <!--Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/JianLi_CV.pdf))-->
 

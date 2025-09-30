@@ -8,15 +8,15 @@ author_profile: true
 
 ## 2025
 
-* FedNK-RF: Federated Kernel Learning with Heterogeneous Data and Optimal Rates.
+* FedNK-RF: Federated Kernel Learning with Heterogeneous Data and Optimal Rates. <br>
 Xuning Zhang, <u><b>Jian Li*</b></u>, Rong Yin, Weiping Wang.  <br>
 <i> IEEE Transactions on Neural Networks and Learning Systems</i>  (**TNNLS**). <b>CCF-B Journal / JCR Q1</b>. Accepted
 
-* Improving Mathematical Reasoning Capabilities of Small Language Models via Feedback-Driven Distillation.
+* Improving Mathematical Reasoning Capabilities of Small Language Models via Feedback-Driven Distillation. <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Can Ma, Weiping Wang.  <br>
 <i> 2025 International Joint Conference on Neural Networks</i>  (**IJCNN**). <b>CCF-C Conference</b>.
 
-* Improving Mathematical Reasoning Abilities of Small Language Models via Key-Point-Driven Distillation.
+* Improving Mathematical Reasoning Abilities of Small Language Models via Key-Point-Driven Distillation. <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Can Ma, Weiping Wang.  <br>
 <i> 2025 International Joint Conference on Neural Networks</i>  (**IJCNN**). <b>CCF-C Conference</b>.
 

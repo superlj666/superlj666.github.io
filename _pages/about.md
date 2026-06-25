@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I joined the School of Artificial Intelligence at Beijing Normal University (BNU) as an Associate Professor in September 2024. Prior to this, I was a young senior researcher at the Institute of Information Engineering, Chinese Academy of Sciences, from September 2020 to September 2024. I received my Ph.D. from the same institute in July 2020, under the supervision of Professor [Yong Liu](https://liuyonggsai.github.io/) and Professor Weiping Wang.
+I joined the School of Artificial Intelligence at Beijing Normal University (BNU) as an Associate Professor and Ph.D. Supervisor in September 2024. Prior to this, I was a young senior researcher at the Institute of Information Engineering, Chinese Academy of Sciences, from September 2020 to September 2024. I received my Ph.D. from the University of Chinese Academy of Sciences in June 2020, under the supervision of Professor [Yong Liu](https://liuyonggsai.github.io/) and Professor Weiping Wang.
 
 
-Artificial intelligence methods represented by large language models (LLMs) have achieved significant progress at both algorithmic and application levels. However, their intrinsically data-driven statistical nature leads to insufficient reasoning reliability (high hallucination rates), making it challenging to meet the stringent reliability requirements of high-risk decision-making and educational scenarios. My research focuses on the reasoning capabilities and reliability of large language models, aiming to enhance complex reasoning ability and reasoning reliability through fundamental theoretical exploration and key technical investigations, thereby realizing interpretable, trustworthy, and practically deployable LLM reasoning systems. Specific research interests include, but are not limited to:
+Artificial intelligence methods represented by large language models (LLMs) are rapidly evolving from single-turn language systems into long-horizon, tool-using, and domain-specialized agents. My research focuses on **information compression for large language models** and **efficient intelligent agents**, aiming to build resource-aware LLM systems that preserve reasoning, memory, and tool-use capabilities under constrained computation, context, and deployment budgets. I am particularly interested in the fundamental mechanisms of compression, adaptation, and capability preservation, as well as their deployment in reliable and scalable educational AI systems. Specific research interests include, but are not limited to:
 
-* **Complex reasoning capabilities of LLMs**: Investigating information compression mechanisms, reinforcement learning-driven reasoning optimization, long-context reasoning (Long CoT), and RAG-based tool invocation to enhance reasoning depth and flexibility in complex tasks.
+* **Information compression for LLMs**: Investigating model compression, context compression, memory compression, knowledge compression, and skill compression to understand how large-scale models and agents can retain essential information and capabilities with lower computational and contextual cost.
 
-* **Reasoning reliability of LLMs**: Studying knowledge-driven reasoning, formal reasoning, and neuro-symbolic integration methods to reduce hallucination rates and improve interpretability and trustworthiness of model reasoning.
+* **Efficient and resource-aware agents**: Studying cost-aware reasoning, budgeted memory, dynamic retrieval, tool-use scheduling, small-agent capability enhancement, and multi-agent coordination to improve the efficiency, robustness, and scalability of agentic LLM systems.
 
-* **Educational applications of LLMs**: Exploring functionalities such as intelligent question generation, intelligent literature retrieval and recommendation, and lesson plan generation to enable practical deployment of reasoning capabilities and formation of deliverable results in educational settings.
+* **Educational intelligent agents**: Developing efficient, trustworthy, and deployable educational agents for interactive teaching-resource generation, question-generation agents, lesson-plan generation, intelligent tutoring, educational evaluation, and personalized learning support.
 
 
 <!--My research focuses on foundational machine learning theory, particularly the generalization theory of large-scale methods. Addressing the lag in foundational theory compared to empirical algorithms in large-scale machine learning, I aim to uncover the underlying principles and narrow the gap between theory and practical algorithms. Ultimately, I strive to guide large-scale algorithm design for a balance between computational efficiency and generalization performance. Specific interests include:
@@ -45,11 +45,15 @@ Artificial intelligence methods represented by large language models (LLMs) have
 
 ## Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 
+* Textual Stochastic Gradient Descent: Discrete Optimization of External Memory for Reasoning Language Agents. <br>
+<u><b>Jian Li</b></u>, Hua Huang. <br>
+<i>International Conference on Machine Learning</i> (**ICML**), 2026. <b>CCF-A Conference</b>.
+
 * A Survey on Model Compression for Large Language Models. 
 [[pdf]](https://arxiv.org/pdf/2308.07633)
 <br>
-<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Transactions of the Association for Computational Linguistics</i> (**TACL**), 2024, Aceepted. <b>CCF-B Journal / JCR Q1</b>. <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang. <br>
+<i>Transactions of the Association for Computational Linguistics</i> (**TACL**), 2024. <b>CCF-B Journal / JCR Q1</b>. <br>
 
 * Distilling mathematical reasoning capabilities into Small Language Models. 
 [[pdf]](https://doi.org/10.1016/j.neunet.2024.106594) <br>
@@ -61,7 +65,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 [[code]](https://github.com/superlj666/Agnostic-DKRR)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal</b>. <br>
+<i>IEEE Transactions on Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal</b>. <br>
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
@@ -85,7 +89,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 * Multi-Class Learning: From Theory to Algorithm. 
 [[pdf]](https://proceedings.neurips.cc/paper/2018/file/1141938ba2c2b13f5505d7c424ebae5f-Paper.pdf)
 [[poster]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-poster.pdf)
-[[sildes]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
+[[slides]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
 [[3-minute video]](https://youtu.be/mE_RpgWuKK8)
 [[code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
@@ -94,16 +98,16 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 * Federated learning for non-iid data: From theory to algorithm. 
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_3)
 [[presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
-[[🏆<b>Best Student Paper Reward</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png) (1/92)<br>
+[[🏆<b>Best Student Paper Award</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png) (1/92)<br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C Conference.
 
 ##  Projects
-* National Natural Science Foundation of China (No. 62106257), 2026.01 - 2029.12, &yen;500,000. <br>
+* National Natural Science Foundation of China (No. 62576041), 2026.01 - 2029.12, &yen;500,000. <br>
 <i> Information Compression of Large Language Models: Mathematical Mechanism Analysis and Algorithm Design</i>.
 
 * National Key R&D Program of China (2022YFB3105302.2), 2022.12 - 2025.11, &yen;1,200,000. <br>
-<i> Aggregation and Collaborative Techniques for Cross-platforms Heterogenous Data</i>.
+<i> Aggregation and Collaborative Techniques for Cross-platforms Heterogeneous Data</i>.
 
 * National Natural Science Foundation of China (No. 62106257), 2022.01 - 2024.12, &yen;300,000. <br>
 <i> Large Scale Structured Prediction with Automated Spectral Kernel Learning</i>.
@@ -128,27 +132,33 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
   
 ### Pending
 
-* <u><b>Jian Li</b></u>, Yong Liu, Liubin Wang, Yiguo Yang, Juhong Wang.Neural Network Architecture Search Method, Device, Computer Equipment, and Storage Medium. CN：202011567991.3. App. Date: December 25, 2020.
+* <u><b>Jian Li</b></u>, Yong Liu, Liubin Wang, Yiguo Yang, Juhong Wang. Neural Network Architecture Search Method, Device, Computer Equipment, and Storage Medium. CN: 202011567991.3. App. Date: December 25, 2020.
 * <u><b>Jian Li</b></u>, Jiaoyang Li, Bojian Wei, Yong Liu, Weiping Wang. A Federated Learning Method and System Based on Attention Mechanism. CN: 202311073645.3. App. Date: August 24, 2023
 * <u><b>Jian Li</b></u>, Jiaoyang Li, Zheng Lin, Yong Liu, Weiping Wang. A Vertical Domain Large Model Method and System Based on Knowledge Distillation and Prompt Engineering. CN: 202311073641.5. App. Date: August 24, 2023.
 
 
 ## Students
 - Ph.D. students
-  - 🎓Yilin Kang (2020.09 - 2023.06 ), Differential Privacy. 
-  <br>Publications: Computers & Security, CIKM, ICCS. 
-  <br> Post-graduation: Researcher in Purple Mountain Laboratories.
-  - Xunyu Zhu (2020.09 - present), Efficient LLM Inference. 
-  <br>Publications: Neural Networks $\times$ 2, TACL, ICDM. 
-  <br>In submissions: TACL.
+  - 🎓Yilin Kang (2020.09 - 2023.06), Differential Privacy.
+  <br>Publications: Computers & Security, CIKM, ICCS.
+  <br>Post-graduation: Purple Mountain Laboratories; later joined Yuxi Normal University.
+  - 🎓Xunyu Zhu (2020.09 - 2025.06), Efficient LLM Inference and LLM Compression.
+  <br>Publications: TACL, Neural Networks $\times$ 2, ICDM, IJCNN $\times$ 2.
+  <br>Post-graduation: State Power Investment Corporation Central Research Institute.
   - Boxuan Che (2022.09 - present), Efficient Graph Neural Networks.
+  - Zhenyu Wu (2024.09 - present), Interactive Teaching Resource Generation and Question-Generation Agents.
+  <br>In submissions: MM 2026, EMNLP 2026.
+  - Mucun Xie (2025.09 - present), Efficient Agent Memory.
+  <br>Publications: ICCBR 2026.
+  - Zongyou Tan (2025.09 - present), Educational Intelligent Agents.
 - Master students
-  - 🎓Bojian Wei (2020.09 - 2022.06), Federated Learning on Heterogenous Data. 
-  <br>Publications: PRICAI 2021 (**best student paper award**), TNNLS, ECML-PKDD, IJCNN. 
+  - 🎓Bojian Wei (2020.09 - 2022.06), Federated Learning on Heterogeneous Data.
+  <br>Publications: PRICAI 2021 (**best student paper award**), TNNLS, ECML-PKDD, IJCNN.
   <br>Post-graduation: Management Trainee in Bank of China Head Office.
-  - Xuning Zhang (2022.09 - present), Federated Learning.
+  - 🎓Xuning Zhang (2023.09 - 2026.06), Federated Learning.
   <br>**Excellent Bachelor's Thesis in Wuhan University in 2023**.
-  <br>In submissions: AAAI 2025.
+  <br>Publications: TNNLS.
+  <br>Post-graduation: ByteDance.
 
 ## Honors and Awards
 * Microsoft Research Asia StarTrack Scholars Program, 2024

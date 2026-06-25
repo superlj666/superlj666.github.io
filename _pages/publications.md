@@ -6,11 +6,37 @@ author_profile: true
 
 <i>* Corresponding author</i>
 
+## 2026
+
+* Textual Stochastic Gradient Descent: Discrete Optimization of External Memory for Reasoning Language Agents. <br>
+<u><b>Jian Li</b></u>, Hua Huang. <br>
+<i>International Conference on Machine Learning</i> (**ICML**), 2026. <b>CCF-A Conference</b>.
+
+* From Redundancy to Precision: A CBR-Aligned Compressed Tree-based Case Repository for Enhancing Large Language Model Reasoning. <br>
+Mucun Xie, Yijia Xu, <u><b>Jian Li*</b></u>. <br>
+<i>International Conference on Case-Based Reasoning</i> (**ICCBR**), 2026.
+
+* Stability and Generalization of Differentially Private Minimax Problems.
+[[pdf]](https://arxiv.org/abs/2204.04858) <br>
+Yilin Kang, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
+<i>Neurocomputing</i>, 2026. <b>CCF-B Journal / JCR Q1</b>.
+
+* FedNK-RF: Federated Kernel Learning With Heterogeneous Data and Optimal Rates.
+[[doi]](https://doi.org/10.1109/TNNLS.2025.3612728) <br>
+Xuning Zhang, <u><b>Jian Li*</b></u>, Rong Yin, Weiping Wang. <br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2026, 37(2):851-863. <b>CCF-B Journal / JCR Q1</b>.
+
 ## 2025
 
-* FedNK-RF: Federated Kernel Learning with Heterogeneous Data and Optimal Rates. <br>
-Xuning Zhang, <u><b>Jian Li*</b></u>, Rong Yin, Weiping Wang.  <br>
-<i> IEEE Transactions on Neural Networks and Learning Systems</i>  (**TNNLS**). <b>CCF-B Journal / JCR Q1</b>. Accepted
+* MAGMA-Edu: Multi-Agent Generative Multimodal Framework for Text-Diagram Educational Question Generation.
+[[pdf]](https://arxiv.org/abs/2511.18714) <br>
+Zhenyu Wu, <u><b>Jian Li*</b></u>, Hua Huang. <br>
+<i>arXiv preprint arXiv:2511.18714</i>.
+
+* Towards Efficient VLMs: Information-Theoretic Driven Compression via Adaptive Structural Pruning.
+[[pdf]](https://arxiv.org/abs/2511.19518) <br>
+Zhaoqi Xu, Yingying Zhang, <u><b>Jian Li*</b></u>, Jianwei Guo, Qiannan Zhu, Hua Huang. <br>
+<i>arXiv preprint arXiv:2511.19518</i>.
 
 * Improving Mathematical Reasoning Capabilities of Small Language Models via Feedback-Driven Distillation. <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Can Ma, Weiping Wang.  <br>
@@ -22,7 +48,14 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Can Ma, Weiping Wang.  <br>
 
 * Understanding Generalization in Transformers: Error Bounds and Training Dynamics Under Benign and Harmful Overfitting.
 [[pdf]](https://arxiv.org/pdf/2502.12508) <br>
-Yingying Zhang, Zhenyu Wu, <u><b>Jian Li*</b></u>. <br>
+Yingying Zhang, Zhenyu Wu, <u><b>Jian Li*</b></u>, Yong Liu. <br>
+
+* Optimal Convergence for Agnostic Kernel Learning With Random Features.
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/10304308)
+[[code]](https://github.com/superlj666/Agnostic-RF)
+<br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang.  <br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2025. <b>CCF-B Journal / JCR Q1</b>.
 
 
 ## 2024
@@ -42,12 +75,10 @@ Yilin Kang, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 <i> Neural Networks</i>. <b>CCF-B Journal / JCR Q1</b>.
 
-* Optimal Rates for Agnostic Distributed Learning. 
-[[pdf]](https://ieeexplore.ieee.org/document/10365227)
-[[code]](https://github.com/superlj666/Agnostic-DKRR)
-<br>
-<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal / JCR Q1</b>. <br>
+* Non-IID Federated Learning with Sharper Risk Bound.
+[[pdf]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>
+Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2024. <b>CCF-B Journal / JCR Q1</b>.
 
 * High-dimensional Analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. 
 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29253)
@@ -65,7 +96,19 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A Conference</b>.
 
+* Improving Small Language Models' Mathematical Reasoning via Mix Thoughts Distillation.
+[[pdf]](https://arxiv.org/abs/2401.11864) <br>
+Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
+<i>arXiv preprint arXiv:2401.11864</i>.
+
 ## 2023
+
+* Optimal Rates for Agnostic Distributed Learning.
+[[pdf]](https://ieeexplore.ieee.org/document/10365227)
+[[code]](https://github.com/superlj666/Agnostic-DKRR)
+<br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+<i>IEEE Transactions on Information Theory</i> (**TIT**), 2023. <b>CCF-A Journal / JCR Q1</b>. <br>
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
@@ -82,13 +125,6 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 <u><b>Jian Li</b></u>, Yong Liu. <br>
 <i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2023. <b>CCF-A Conference</b>.
 
-* Optimal Convergence for Agnostic Kernel Learning With Random Features.
-[[pdf]](https://ieeexplore.ieee.org/abstract/document/10304308)
-[[code]](https://github.com/superlj666/Agnostic-RF)
-<br>
-<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang.  <br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2023. <b>CCF-B Journal / JCR Q1</b>.
-
 * Semi-supervised vector-valued learning: Improved bounds and algorithms. 
 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320323000572) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang.  <br>
@@ -104,7 +140,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>International Joint Conference on Neural Networks</i> (IJCNN), 2023. CCF-C conference.
 
 * Data Heterogeneity Differential Privacy: From Theory to Algorithm. [[pdf]](https://doi.org/10.1007/978-3-031-35995-8_9) <br>
-Yiling Kang, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
+Yilin Kang, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>International Conference on Computational Science</i> (ICCS), 2023.
 
 * Robust Neural Architecture Search.
@@ -130,11 +166,6 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 [[pdf]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1304.pdf) <br>
 <u><b>Jian Li</b></u>, Bojian Wei, Yong Liu, Weiping Wang. <br>
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i> (**ECML-PKDD**), 2022. <b>CCF-B conference</b>.
-
-* Non-IID Federated Learning with Sharper Risk Bound.
-[[pdf]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>
-Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B Journal / JCR Q1</b>.
 
 * Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth.
 [[pdf]](https://doi.org/10.1145/3511808.3557451) <br>
@@ -181,7 +212,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2019. <b>CCF-A Conference</b>.
 
 * Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis. 
-g[[pdf]](https://www.ijcai.org/proceedings/2019/0400.pdf)
+[[pdf]](https://www.ijcai.org/proceedings/2019/0400.pdf)
 [[poster]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nyström_PCG_poster.pdf)
 [[slides]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nyström_PCG_slides.pdf)
 [[code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis) <br>
@@ -197,7 +228,7 @@ Yong Liu, <u><b>Jian Li</b></u>, Guangjun Wu, Lizhong Ding, Weiping Wang. <br>
 * Multi-Class Learning: From Theory to Algorithm. 
 [[pdf]](https://proceedings.neurips.cc/paper/2018/file/1141938ba2c2b13f5505d7c424ebae5f-Paper.pdf)
 [[poster]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-poster.pdf)
-[[sildes]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
+[[slides]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
 [[3-minute video]](https://youtu.be/mE_RpgWuKK8)
 [[code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
@@ -213,7 +244,7 @@ Yong Liu, <u><b>Jian Li</b></u>, Weiping Wang. <br>
 * Efficient Kernel Selection via Spectral Analysis. 
 [[pdf]](https://www.ijcai.org/proceedings/2017/0295.pdf)
 [[poster]](https://lijian.ac.cn/files/2017_IJCAI_KS/ijicai-poster-0816.pdf)
-[[sildes]](https://lijian.ac.cn/files/2017_IJCAI_KS/IJCAI_presentation.pptx)
+[[slides]](https://lijian.ac.cn/files/2017_IJCAI_KS/IJCAI_presentation.pptx)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <br>
 <i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2017. <b>CCF-A Conference</b>.

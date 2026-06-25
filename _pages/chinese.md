@@ -4,7 +4,7 @@ permalink: /chinese/
 author_profile: true
 ---
 
-**副教授（博士生导师、硕士生导师），北京师范大学人工智学院** 
+**副教授（博士生导师、硕士生导师），北京师范大学人工智能学院，[智能媒体计算实验室](https://vmcl.bnu.edu.cn/)**
 
 **地址：北京市新街口外大街19号，100875** 
 
@@ -12,13 +12,13 @@ author_profile: true
 
 ## 研究方向
 
-以大语言模型为代表的人工智能方法在算法与应用层面取得了显著进展，但其数据驱动的内在统计特性导致推理可靠性不足（幻觉率高），难以满足高风险决策与教育场景对可靠性的严格要求。我的研究聚焦大语言模型的推理能力与可靠性，旨在通过基础理论探索和关键技术研究，提升模型的复杂推理能力和推理可靠性，实现可解释、可信、可落地的大模型推理体系。具体研究兴趣包括但不限于：
+以大语言模型为代表的人工智能方法正在从单轮语言系统走向长期交互、工具调用与领域智能体。我的研究聚焦**大模型信息压缩**与**高效智能体**，面向算力、上下文、记忆、工具调用和部署预算受限的真实场景，研究大模型和智能体如何在资源约束下保持推理、记忆、工具使用与任务执行能力，构建高效、可信、可扩展、可落地的智能系统。具体研究兴趣包括但不限于：
 
-* **大模型的复杂推理能力**：探索信息压缩机制、强化学习驱动的推理优化、长上下文推理（Long CoT）、RAG工具调用等技术，以增强模型在复杂任务中的推理深度与灵活性。
+* **大模型信息压缩**：研究模型压缩、上下文压缩、记忆压缩、知识压缩与技能压缩，探索大模型在低计算、低存储、低上下文开销下保持核心信息与能力的基础机制和算法方法。
 
-* **大模型的推理可靠性**：研究知识驱动推理、形式化推理与神经-符号一体化方法，降低模型幻觉率，提升推理可解释性与可信度。
+* **高效与资源感知智能体**：研究成本感知推理、预算化记忆、动态检索、工具调用调度、小模型智能体能力增强与多智能体协同，提升智能体系统的执行效率、鲁棒性和规模化部署能力。
 
-* **大模型的教育应用**：面向教育场景，探索智能出题、智能文献检索与推荐、教案生成等功能，推动模型推理能力的实际落地与可交付成果形成。
+* **教育智能体系统**：面向教育场景，研究可交互教学资源生成、出题智能体、教案生成、智能答疑、教育评测与个性化学习支持，推动高效智能体在真实教育系统中的应用验证与成果转化。
 
 
 
@@ -54,11 +54,15 @@ author_profile: true
 
 ## 代表性工作 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 
+* Textual Stochastic Gradient Descent: Discrete Optimization of External Memory for Reasoning Language Agents. <br>
+<u><b>Jian Li</b></u>, Hua Huang. <br>
+<i>International Conference on Machine Learning</i> (**ICML**), 2026. <b>CCF-A 会议，机器学习领域顶级会议</b>.
+
 * A Survey on Model Compression for Large Language Models. 
 [[pdf]](https://arxiv.org/pdf/2308.07633)
 <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang. <br>
-<i>Transactions of the Association for Computational Linguistics</i> (**TACL**), 2024, 已录用. <b>CCF-B 期刊 / JCR Q1</b>. <br>
+<i>Transactions of the Association for Computational Linguistics</i> (**TACL**), 2024. <b>CCF-B 期刊 / JCR Q1</b>. <br>
 大模型领域首篇模型压缩综述.
 
 * Distilling mathematical reasoning capabilities into Small Language Models. 
@@ -71,7 +75,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 [[code]](https://github.com/superlj666/Agnostic-DKRR)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>IEEE Transactions On Information Theory</i> (**TIT**), 2023. <b>CCF-A 期刊，信息论理论顶级期刊.</b>. <br>
+<i>IEEE Transactions on Information Theory</i> (**TIT**), 2023. <b>CCF-A 期刊，信息论理论顶级期刊</b>. <br>
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
@@ -91,21 +95,21 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A 会议，机器学习领域顶级会议</b>.
 
+* Multi-Class Learning: From Theory to Algorithm. 
+[[pdf]](https://proceedings.neurips.cc/paper/2018/file/1141938ba2c2b13f5505d7c424ebae5f-Paper.pdf)
+[[poster]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-poster.pdf)
+[[slides]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
+[[3-minute video]](https://youtu.be/mE_RpgWuKK8)
+[[code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
+<u><b>Jian Li</b></u>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
+<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A 会议，机器学习领域顶级会议</b>.
+
 * Federated learning for non-iid data: From theory to algorithm. 
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_3)
 [[presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
 [[🏆<b>最佳学生论文奖</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png) (1/92)<br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C 会议.
-
-* Multi-Class Learning: From Theory to Algorithm. 
-[[pdf]](https://proceedings.neurips.cc/paper/2018/file/1141938ba2c2b13f5505d7c424ebae5f-Paper.pdf)
-[[poster]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-poster.pdf)
-[[sildes]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
-[[3-minute video]](https://youtu.be/mE_RpgWuKK8)
-[[code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
-<u><b>Jian Li</b></u>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
-<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A 会议，机器学习领域顶级会议</b>.
 
 
 ## 主持项目
@@ -149,18 +153,24 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 - 博士研究生
   - 康艺霖（2020.09 - 2023.06）🎓，差分隐私.
   <br>发表论文：Computers & Security、CIKM、ICCS.
-  <br>毕业去向：紫金山实验室.
-  - 朱勋宇（2020.09 - 至今），神经网络结构搜索.
-  <br>发表论文：Neural Networks $\times$ 2, TACL, ICDM.
-  <br>投稿论文：TACL.
+  <br>毕业去向：紫金山实验室；后入职玉溪师范学院.
+  - 朱勋宇（2020.09 - 2025.06）🎓，大模型高效推理与大模型压缩.
+  <br>发表论文：TACL、Neural Networks $\times$ 2、ICDM、IJCNN $\times$ 2.
+  <br>毕业去向：国家电投中央研究院.
   - 车博轩（2022.09 - 至今），高效图神经网络.
+  - 吴镇宇（2024.09 - 至今），可交互教学资源生成、出题智能体.
+  <br>投稿论文：MM 2026、EMNLP 2026.
+  - 谢沐村（2025.09 - 至今），高效智能体记忆.
+  <br>发表论文：ICCBR 2026.
+  - 谭棕友（2025.09 - 至今），教育智能体.
 - 硕士研究生
   - 韦博舰（2020.09 - 2022.06）🎓，联邦学习.
   <br>发表论文：PRICAI 2021 (**最佳学生论文奖**)、TNNLS、ECML-PKDD、IJCNN.
   <br>毕业去向：中国银行总行管培生.
-  - 张旭宁（2022.09 - 至今），联邦学习.
+  - 张旭宁（2023.09 - 2026.06）🎓，联邦学习.
   <br>**2023年武汉大学优秀学士论文奖**.
-  <br>投稿论文：AAAI 2025.
+  <br>发表论文：TNNLS.
+  <br>毕业去向：字节跳动.
 
 ## 荣誉称号
 * 2024年，微软亚洲研究院“铸星计划”.

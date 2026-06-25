@@ -146,11 +146,6 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
   <br>Publications: TACL, Neural Networks $\times$ 2, ICDM, IJCNN $\times$ 2.
   <br>Post-graduation: State Power Investment Corporation Central Research Institute.
   - Boxuan Che (2022.09 - present), Efficient Graph Neural Networks.
-  - Zhenyu Wu (2024.09 - present), Interactive Teaching Resource Generation and Question-Generation Agents.
-  <br>In submissions: MM 2026, EMNLP 2026.
-  - Mucun Xie (2025.09 - present), Efficient Agent Memory.
-  <br>Publications: ICCBR 2026.
-  - Zongyou Tan (2025.09 - present), Educational Intelligent Agents.
 - Master students
   - 🎓Bojian Wei (2020.09 - 2022.06), Federated Learning on Heterogeneous Data.
   <br>Publications: PRICAI 2021 (**best student paper award**), TNNLS, ECML-PKDD, IJCNN.
@@ -159,6 +154,11 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
   <br>**Excellent Bachelor's Thesis in Wuhan University in 2023**.
   <br>Publications: TNNLS.
   <br>Post-graduation: ByteDance.
+  - Zhenyu Wu (2024.09 - present), Interactive Teaching Resource Generation and Question-Generation Agents.
+  <br>In submissions: MM 2026, EMNLP 2026.
+  - Mucun Xie (2025.09 - present), Efficient Agent Memory.
+  <br>Publications: ICCBR 2026.
+  - Zongyou Tan (2025.09 - present), Educational Intelligent Agents.
 
 ## Honors and Awards
 * Microsoft Research Asia StarTrack Scholars Program, 2024

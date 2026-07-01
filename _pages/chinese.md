@@ -4,7 +4,7 @@ permalink: /chinese/
 author_profile: true
 ---
 
-**副教授（博士生导师），北京师范大学人工智能学院，[智能媒体计算实验室（黄华教授团队）](https://vmcl.bnu.edu.cn/)**
+**副教授（博士生导师），北京师范大学人工智能学院**
 
 **地址：北京市新街口外大街19号，100875** 
 
@@ -12,13 +12,7 @@ author_profile: true
 
 ## 个人概况
 
-北京师范大学人工智能学院副教授、博士生导师，[智能媒体计算实验室（黄华教授团队）](https://vmcl.bnu.edu.cn/)成员；研究方向聚焦大模型信息压缩、高效智能体与教育智能体系统。
-
-已发表高水平学术论文40余篇，Google Scholar 被引用1000余次；其中以第一作者发表 CCF A 类期刊和会议论文十余篇，是国内相对少有的以第一作者同时在 IEEE Transactions on Information Theory (IEEE TIT)、Journal of Machine Learning Research (JMLR) 与 Artificial Intelligence (AIJ) 等人工智能领域顶级期刊发表论文的青年学者。
-
-近五年主持国家自然科学基金面上项目/青年项目、国家重点研发计划子课题、中国博士后科学基金、中央高校基本科研业务费等科研项目，累计项目经费318万元。
-
-曾入选微软亚洲研究院“铸星计划”、中国科学院特别研究助理、中科院信工所优才计划 A 类与 B 类等人才计划，曾获 PRICAI 2021 最佳学生论文奖。
+北京师范大学人工智能学院副教授、博士生导师，[智能媒体计算实验室（黄华教授团队）](https://vmcl.bnu.edu.cn/)成员；研究方向聚焦大模型信息压缩、高效智能体与教育智能体系统。已发表高水平学术论文40余篇，Google Scholar 被引用1000余次；其中以第一作者在 IEEE Transactions on Information Theory (IEEE TIT)、Journal of Machine Learning Research (JMLR) 与 Artificial Intelligence (AIJ)、ICML、NeurIPS、AAAI等人工智能领域顶级期刊及会议论文发表十余篇。近五年主持国家自然科学基金面上项目/青年项目、国家重点研发计划子课题、中国博士后科学基金、中央高校基本科研业务费等科研项目，累计项目经费318万元。曾入选微软亚洲研究院“铸星计划”、中国科学院特别研究助理、中科院信工所优才计划 A 类与 B 类等人才计划，曾获 PRICAI 2021 最佳学生论文奖。
 
 ## 研究方向
 
